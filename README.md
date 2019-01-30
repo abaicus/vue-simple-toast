@@ -17,7 +17,7 @@ npm install vue-simple-toast --save
 Import plugin:
 
 ```javascript
-import simpleToast from 'vue-simple-toast'
+import simpleToast from 'vue-js-simple-toast'
 
 Vue.use(simpleToast)
 ```
@@ -26,7 +26,7 @@ Vue.use(simpleToast)
 Import component:
 
 ```javascript
-import { simpleToast } from 'vue-simple-toast'
+import { simpleToast } from 'vue-js-simple-toast'
 
 Vue.component('simpleToast', simpleToast)
 ```
