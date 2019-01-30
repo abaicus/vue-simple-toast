@@ -1,0 +1,43 @@
+{
+  "name": "vue-simple-toast",
+  "description": "A toast notification component for Vue.js 2+",
+  "version": "1.0.0",
+  "author": "abaicus <andrei@themeisle.com>",
+  "private": false,
+  "scripts": {
+    "build": "webpack --config ./webpack.config.js --progress --hide-modules",
+    "dev": "webpack --config ./webpack.config.js --progress --hide-modules --watch"
+  },
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abaicus/vue-simple-toast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abaicus/vue-simple-toast.git"
+  },
+  "peerDependencies": {
+    "vue": "^2.0.0"
+  },
+  "keywords": [
+    "vue",
+    "toast",
+    "notification",
+    "notice"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-loader": "^6.0.0",
+    "babel-preset-latest": "^6.0.0",
+    "css-loader": "^0.25.0",
+    "file-loader": "^0.9.0",
+    "node-sass": "^4.5.0",
+    "optimize-css-assets-webpack-plugin": "^3.1.1",
+    "sass-loader": "^5.0.1",
+    "vue": "^2.0.0",
+    "vue-loader": "^11.1.4",
+    "vue-template-compiler": "^2.0.0",
+    "webpack": "^2.2.0",
+    "webpack-merge": "^4.1.0"
+  }
+}
