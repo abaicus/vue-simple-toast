@@ -1,7 +1,7 @@
 {
   "name": "vue-js-simple-toast",
   "description": "A toast notification component for Vue.js 2+",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "abaicus <andrei@themeisle.com>",
   "private": false,
   "scripts": {
