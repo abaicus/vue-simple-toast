@@ -1,7 +1,7 @@
 <span>
-  <img src="https://badge.fury.io/js/vue-simple-toast.svg">
+  <img src="https://badge.fury.io/js/vue-js-simple-toast.svg">
 </span> <span>
-  <img src="https://img.shields.io/npm/dm/vue-simple-toast.svg">
+  <img src="https://img.shields.io/npm/dm/vue-js-simple-toast.svg">
 </span> 
 
 # Vue.js simple toast.
