@@ -37,7 +37,7 @@
     "vue": "2.5.22",
     "vue-loader": "11.3.4",
     "vue-template-compiler": "2.5.22",
-    "webpack": "2.7.0",
+    "webpack": "4.29.0",
     "webpack-merge": "4.2.1"
   }
 }
