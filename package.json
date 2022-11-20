@@ -27,7 +27,7 @@
   ],
   "devDependencies": {
     "babel-core": "6.26.3",
-    "babel-loader": "8.0.5",
+    "babel-loader": "8.3.0",
     "babel-preset-latest": "6.24.1",
     "css-loader": "2.1.0",
     "file-loader": "3.0.1",
