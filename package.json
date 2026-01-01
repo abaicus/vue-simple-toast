@@ -34,9 +34,9 @@
     "node-sass": "4.11.0",
     "optimize-css-assets-webpack-plugin": "5.0.1",
     "sass-loader": "7.1.0",
-    "vue": "2.5.22",
+    "vue": "2.7.16",
     "vue-loader": "15.6.2",
-    "vue-template-compiler": "2.5.22",
+    "vue-template-compiler": "2.7.16",
     "webpack": "4.29.0",
     "webpack-merge": "4.2.1"
   }
